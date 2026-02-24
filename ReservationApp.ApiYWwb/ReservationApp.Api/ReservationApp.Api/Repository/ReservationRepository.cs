@@ -4,7 +4,7 @@ using ReservationApp.Api.Models;
 
 namespace ReservationApp.Api.Repository
 {
-    public class ReservationRepository: IReservationRepository
+    public class ReservationRepository : IReservationRepository
     {
         private readonly string _connectionString;
 
@@ -13,68 +13,86 @@ namespace ReservationApp.Api.Repository
             _connectionString = configuration.GetConnectionString("DefaultConnection") ?? string.Empty;
         }
 
-        public async Task<List<Reservation>> GetReservationsAsync()
+        public async Task<IEnumerable<ReservationDTO>> GetReservationsAsync()
         {
-            var reservations = new List<Reservation>();
+            var reservations = new List<ReservationDTO>();
             using (var connection = new SqlConnection(_connectionString))
             {
                 await connection.OpenAsync();
-                var command = new SqlCommand("SELECT * FROM Reservas", connection);
-                var reader = await command.ExecuteReaderAsync();
+                var command = new SqlCommand("SELECT Id, Paciente, Medico, Especialidad, Fecha FROM Reservas", connection);
+                using var reader = await command.ExecuteReaderAsync();
                 while (await reader.ReadAsync())
                 {
-                    reservations.Add(new Models.Reservation
+                    reservations.Add(new ReservationDTO
                     {
-                        Id = reader.GetInt32(0),
                         Patient = reader.GetString(1),
                         Doctor = reader.GetString(2),
                         Specialty = reader.GetString(3),
-                        Date = DateOnly.FromDateTime(reader.GetDateTime(4)),
-                        CreatedAt = reader.GetDateTime(5)
+                        Date = DateOnly.FromDateTime(reader.GetDateTime(4))
                     });
                 }
             }
             return reservations;
         }
 
-        public async Task CreateReservationAsync(Reservation reservation)
+        public async Task<ReservationDTO?> GetReservationByIdAsync(int id)
         {
-            using (var connection = new SqlConnection(_connectionString))
+            using var connection = new SqlConnection(_connectionString);
+            await connection.OpenAsync();
+            var command = new SqlCommand("SELECT Id, Paciente, Medico, Especialidad, Fecha FROM Reservas WHERE Id = @Id", connection);
+            command.Parameters.AddWithValue("@Id", id);
+            using var reader = await command.ExecuteReaderAsync();
+            if (await reader.ReadAsync())
             {
-                await connection.OpenAsync();
-                var command = new SqlCommand("INSERT INTO Reservas (Paciente, Medico, Especialidad, Fecha, FechaCreacion) VALUES (@Patient, @Doctor, @Specialty, @Date, @CreatedAt)", connection);
-                command.Parameters.AddWithValue("@Patient", reservation.Patient);
-                command.Parameters.AddWithValue("@Doctor", reservation.Doctor);
-                command.Parameters.AddWithValue("@Specialty", reservation.Specialty);
-                command.Parameters.AddWithValue("@Date", reservation.Date.ToDateTime(new TimeOnly(0, 0)));
-                command.Parameters.AddWithValue("@CreatedAt", reservation.CreatedAt);
-                await command.ExecuteNonQueryAsync();
+                return new ReservationDTO
+                {
+                    Patient = reader.GetString(1),
+                    Doctor = reader.GetString(2),
+                    Specialty = reader.GetString(3),
+                    Date = DateOnly.FromDateTime(reader.GetDateTime(4))
+                };
             }
+            return null;
         }
 
-        Task<IEnumerable<ReservationDTO>> IReservationRepository.GetReservationsAsync()
+        public async Task CreateReservationAsync(CreateReservationDTO dto)
         {
-            throw new NotImplementedException();
+            using var connection = new SqlConnection(_connectionString);
+            await connection.OpenAsync();
+            var command = new SqlCommand(
+                "INSERT INTO Reservas (Paciente, Medico, Especialidad, Fecha, FechaCreacion) VALUES (@Paciente, @Medico, @Especialidad, @Fecha, @FechaCreacion)",
+                connection);
+            command.Parameters.AddWithValue("@Paciente", dto.Patient);
+            command.Parameters.AddWithValue("@Medico", dto.Doctor);
+            command.Parameters.AddWithValue("@Especialidad", dto.Specialty);
+            command.Parameters.AddWithValue("@Fecha", dto.Date.ToDateTime(new TimeOnly(0, 0)));
+            command.Parameters.AddWithValue("@FechaCreacion", DateTime.Now);
+            await command.ExecuteNonQueryAsync();
         }
 
-        public Task<ReservationDTO?> GetReservationByIdAsync(int id)
+        public async Task UpdateReservationAsync(UpdateReservationDTO dto)
         {
-            throw new NotImplementedException();
+            using var connection = new SqlConnection(_connectionString);
+            await connection.OpenAsync();
+            var command = new SqlCommand(
+                "UPDATE Reservas SET Paciente = @Paciente, Medico = @Medico, Especialidad = @Especialidad, Fecha = @Fecha WHERE Id = @Id",
+                connection);
+            command.Parameters.AddWithValue("@Id", dto.Id);
+            command.Parameters.AddWithValue("@Paciente", dto.ClientName);
+            command.Parameters.AddWithValue("@Medico", dto.RoomNumber.ToString());
+            command.Parameters.AddWithValue("@Especialidad", "N/A");
+            command.Parameters.AddWithValue("@Fecha", dto.Date);
+            await command.ExecuteNonQueryAsync();
         }
 
-        public Task CreateReservationAsync(CreateReservationDTO dto)
+        public async Task DeleteReservationAsync(int id)
         {
-            throw new NotImplementedException();
+            using var connection = new SqlConnection(_connectionString);
+            await connection.OpenAsync();
+            var command = new SqlCommand("DELETE FROM Reservas WHERE Id = @Id", connection);
+            command.Parameters.AddWithValue("@Id", id);
+            await command.ExecuteNonQueryAsync();
         }
 
-        public Task UpdateReservationAsync(UpdateReservationDTO dto)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task DeleteReservationAsync(int id)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
