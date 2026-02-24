@@ -1,5 +1,5 @@
 {
-  "openapi": "3.0.1",
+  "openapi": "3.0.4",
   "info": {
     "title": "ReservationApp.Api",
     "version": "1.0"
@@ -130,6 +130,113 @@
         }
       }
     },
+    "/api/min/reservations": {
+      "get": {
+        "tags": [
+          "ReservationApp.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "ReservationApp.Api"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateReservationDTO"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/min/reservations/{id}": {
+      "get": {
+        "tags": [
+          "ReservationApp.Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "ReservationApp.Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateReservationDTO"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "ReservationApp.Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -210,17 +317,17 @@
             "type": "string",
             "nullable": true
           },
-          "roomNumber": {
-            "type": "integer",
-            "format": "int32"
+          "doctor": {
+            "type": "string",
+            "nullable": true
           },
           "date": {
             "type": "string",
             "format": "date-time"
           },
-          "nights": {
-            "type": "integer",
-            "format": "int32"
+          "specialty": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -249,5 +356,16 @@
         "additionalProperties": false
       }
     }
-  }
+  },
+  "tags": [
+    {
+      "name": "Reservation"
+    },
+    {
+      "name": "ReservationApp.Api"
+    },
+    {
+      "name": "WeatherForecast"
+    }
+  ]
 }

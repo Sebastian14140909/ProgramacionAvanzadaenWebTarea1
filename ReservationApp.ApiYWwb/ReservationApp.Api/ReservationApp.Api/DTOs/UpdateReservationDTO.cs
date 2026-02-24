@@ -4,8 +4,8 @@
     {
         public int Id { get; set; }
         public string ClientName { get; set; }
-        public int RoomNumber { get; set; }
+        public string Doctor { get; set; }
         public DateTime Date { get; set; }
-        public int Nights { get; set; }
+        public string Specialty { get; set; }
     }
 }   

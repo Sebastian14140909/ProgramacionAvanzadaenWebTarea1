@@ -48,5 +48,6 @@ namespace ReservationApp.Api.Controllers
             await _service.DeleteReservationAsync(id);
             return Ok();
         }
+
     }
 }

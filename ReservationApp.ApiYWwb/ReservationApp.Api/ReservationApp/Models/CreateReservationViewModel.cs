@@ -4,6 +4,7 @@ namespace ReservationApp.Models
 {
     public class CreateReservationViewModel
     {
+        public int Id { get; set; }
         [Required]
         public string Patient { get; set; } = string.Empty;
 

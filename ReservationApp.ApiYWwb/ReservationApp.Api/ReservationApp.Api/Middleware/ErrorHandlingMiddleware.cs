@@ -27,7 +27,13 @@ namespace ReservationApp.Api.Middleware
             {
                 _logger.LogError(ex, "An unexpected error occurred.");
                 context.Response.StatusCode = StatusCodes.Status500InternalServerError;
-                await context.Response.WriteAsJsonAsync(new { error = "An unexpected error occurred. Please try again later." });
+
+                // Cambia la respuesta para ver el error real (SOLO PARA DESARROLLO)
+                await context.Response.WriteAsJsonAsync(new
+                {
+                    error = ex.Message,
+                    detail = ex.InnerException?.Message
+                });
             }
         }
     }

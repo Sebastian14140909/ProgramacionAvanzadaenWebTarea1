@@ -1,121 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\",
+  "WorkspaceRootPath": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\repository\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\repository\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\reservationapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\reservationapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\fuentesparaejemplo\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\fuentesparaejemplo\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\dtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\dtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\dtos\\updatereservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\dtos\\updatereservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\dtos\\updatereservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\reservationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\reservationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\services\\reservationapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\services\\reservationapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\services\\reservationapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\models\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\models\\updatereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\models\\updatereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\views\\reservation\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\views\\reservation\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\models\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\models\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\models\\createreservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\repository\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\repository\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\dtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\dtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\models\\createreservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\models\\createreservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\reservationapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\reservationapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\fuentesparaejemplo\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\fuentesparaejemplo\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\reservationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\reservationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\reservationapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp.api\\reservationapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{78B837D7-090A-8850-4597-84C902C90039}|ReservationApp.Api\\ReservationApp.Api.csproj|solutionrelative:reservationapp.api\\reservationapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\prograavanzadaenweb\\tarea1grupal\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|c:\\users\\franf\\source\\repos\\programacionavanzadaenwebtarea1\\reservationapp.apiywwb\\reservationapp.api\\reservationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{36DE3ECC-E46C-D253-2EFB-6A90F77B5644}|ReservationApp\\ReservationApp.csproj|solutionrelative:reservationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -126,8 +134,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 61,
+          "SelectedChildIndex": 62,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
@@ -314,10 +338,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
             },
             {
@@ -338,10 +358,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
@@ -350,219 +366,312 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IReservationRepository.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Repository\\IReservationRepository.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\Repository\\IReservationRepository.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Repository\\IReservationRepository.cs",
-              "RelativeToolTip": "ReservationApp.Api\\Repository\\IReservationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:23:16.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReservationRepository.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Repository\\ReservationRepository.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\Repository\\ReservationRepository.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Repository\\ReservationRepository.cs",
-              "RelativeToolTip": "ReservationApp.Api\\Repository\\ReservationRepository.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwGEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:22:44.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IReservationService.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Services\\IReservationService.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\Services\\IReservationService.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Services\\IReservationService.cs",
-              "RelativeToolTip": "ReservationApp.Api\\Services\\IReservationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:22:42.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReservationService.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Services\\ReservationService.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\Services\\ReservationService.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Services\\ReservationService.cs",
-              "RelativeToolTip": "ReservationApp.Api\\Services\\ReservationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:22:39.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReservationController.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Controllers\\ReservationController.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\Controllers\\ReservationController.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Controllers\\ReservationController.cs",
-              "RelativeToolTip": "ReservationApp.Api\\Controllers\\ReservationController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:23:48.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Program.cs",
-              "RelativeDocumentMoniker": "ReservationApp\\Program.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Program.cs",
-              "RelativeToolTip": "ReservationApp\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:22:30.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Program.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\Program.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Program.cs",
-              "RelativeToolTip": "ReservationApp.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T23:05:54.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Models\\Reservation.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\Models\\Reservation.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Models\\Reservation.cs",
-              "RelativeToolTip": "ReservationApp.Api\\Models\\Reservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:23:18.74Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\Reservation\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReservationApp\\Views\\Reservation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\Reservation\\Index.cshtml",
+              "RelativeToolTip": "ReservationApp\\Views\\Reservation\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T22:46:48.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ReservationApp.Api.http",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\ReservationApp.Api.http",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\ReservationApp.Api.http",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\ReservationApp.Api.http",
-              "RelativeToolTip": "ReservationApp.Api\\ReservationApp.Api.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-02-23T23:08:06.43Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\Reservation\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ReservationApp\\Views\\Reservation\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\Reservation\\Edit.cshtml",
+              "RelativeToolTip": "ReservationApp\\Views\\Reservation\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T05:07:51.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ErrorHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Middleware\\ErrorHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\Middleware\\ErrorHandlingMiddleware.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Middleware\\ErrorHandlingMiddleware.cs",
-              "RelativeToolTip": "ReservationApp.Api\\Middleware\\ErrorHandlingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ReservationApiServices.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Services\\ReservationApiServices.cs",
+              "RelativeDocumentMoniker": "ReservationApp\\Services\\ReservationApiServices.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Services\\ReservationApiServices.cs",
+              "RelativeToolTip": "ReservationApp\\Services\\ReservationApiServices.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:23:23.668Z",
+              "WhenOpened": "2026-02-23T22:46:31.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\appsettings.json",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\appsettings.json",
-              "RelativeToolTip": "ReservationApp.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-23T22:47:55.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaseDatos.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\FuentesParaEjemplo\\BaseDatos.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\FuentesParaEjemplo\\BaseDatos.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\FuentesParaEjemplo\\BaseDatos.cs",
-              "RelativeToolTip": "ReservationApp.Api\\FuentesParaEjemplo\\BaseDatos.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UpdateReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\UpdateReservationViewModel.cs",
+              "RelativeDocumentMoniker": "ReservationApp\\Models\\UpdateReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\UpdateReservationViewModel.cs",
+              "RelativeToolTip": "ReservationApp\\Models\\UpdateReservationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:23:25.503Z",
+              "WhenOpened": "2026-02-24T05:05:36.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BusinessException.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Exceptions\\BusinessException.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\Exceptions\\BusinessException.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Exceptions\\BusinessException.cs",
-              "RelativeToolTip": "ReservationApp.Api\\Exceptions\\BusinessException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:23:27.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateReservationDTO.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\CreateReservationDTO.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\DTOs\\CreateReservationDTO.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\CreateReservationDTO.cs",
-              "RelativeToolTip": "ReservationApp.Api\\DTOs\\CreateReservationDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T23:06:50.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "UpdateReservationDTO.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\UpdateReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\UpdateReservationDTO.cs",
               "RelativeDocumentMoniker": "ReservationApp.Api\\DTOs\\UpdateReservationDTO.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\UpdateReservationDTO.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\UpdateReservationDTO.cs",
               "RelativeToolTip": "ReservationApp.Api\\DTOs\\UpdateReservationDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T22:23:30.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ReservationApp.Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-23T23:05:42.389Z",
+              "DocumentIndex": 0,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Repository\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\Repository\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Repository\\ReservationRepository.cs",
+              "RelativeToolTip": "ReservationApp.Api\\Repository\\ReservationRepository.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:22:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\ReservationViewModel.cs",
+              "RelativeDocumentMoniker": "ReservationApp\\Models\\ReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\ReservationViewModel.cs",
+              "RelativeToolTip": "ReservationApp\\Models\\ReservationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:46:28.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Services\\ReservationService.cs",
+              "RelativeToolTip": "ReservationApp.Api\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:22:39.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "ReservationApp.Api\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:23:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "ReservationApp\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "ReservationApp\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:39:53.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Services\\IReservationService.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\Services\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Services\\IReservationService.cs",
+              "RelativeToolTip": "ReservationApp.Api\\Services\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:22:42.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\DTOs\\ReservationDTO.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\ReservationDTO.cs",
+              "RelativeToolTip": "ReservationApp.Api\\DTOs\\ReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:23:33.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Repository\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\Repository\\IReservationRepository.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Repository\\IReservationRepository.cs",
+              "RelativeToolTip": "ReservationApp.Api\\Repository\\IReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:23:16.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\appsettings.json",
+              "RelativeToolTip": "ReservationApp.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T22:47:55.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\CreateReservationDTO.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\DTOs\\CreateReservationDTO.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\CreateReservationDTO.cs",
+              "RelativeToolTip": "ReservationApp.Api\\DTOs\\CreateReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T23:06:50.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Models\\Reservation.cs",
+              "RelativeToolTip": "ReservationApp.Api\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:23:18.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\CreateReservationViewModel.cs",
+              "RelativeDocumentMoniker": "ReservationApp\\Models\\CreateReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\CreateReservationViewModel.cs",
+              "RelativeToolTip": "ReservationApp\\Models\\CreateReservationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:40:51.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Program.cs",
+              "RelativeToolTip": "ReservationApp.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T23:05:54.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Program.cs",
+              "RelativeDocumentMoniker": "ReservationApp\\Program.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Program.cs",
+              "RelativeToolTip": "ReservationApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:22:30.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReservationApp.Api.http",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\ReservationApp.Api.http",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\ReservationApp.Api.http",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\ReservationApp.Api.http",
+              "RelativeToolTip": "ReservationApp.Api\\ReservationApp.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-23T23:08:06.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ReservationApp.Api\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:23:23.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\FuentesParaEjemplo\\BaseDatos.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\FuentesParaEjemplo\\BaseDatos.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\FuentesParaEjemplo\\BaseDatos.cs",
+              "RelativeToolTip": "ReservationApp.Api\\FuentesParaEjemplo\\BaseDatos.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:23:25.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Exceptions\\BusinessException.cs",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\Exceptions\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Exceptions\\BusinessException.cs",
+              "RelativeToolTip": "ReservationApp.Api\\Exceptions\\BusinessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T22:23:27.635Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReservationApp.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReservationApp.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T23:05:42.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ReservationApp\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "ReservationApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -570,60 +679,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ReservationDTO.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\ReservationDTO.cs",
-              "RelativeDocumentMoniker": "ReservationApp.Api\\DTOs\\ReservationDTO.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\DTOs\\ReservationDTO.cs",
-              "RelativeToolTip": "ReservationApp.Api\\DTOs\\ReservationDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:23:33.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ReservationViewModel.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\ReservationViewModel.cs",
-              "RelativeDocumentMoniker": "ReservationApp\\Models\\ReservationViewModel.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\ReservationViewModel.cs",
-              "RelativeToolTip": "ReservationApp\\Models\\ReservationViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:46:28.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ReservationApiServices.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Services\\ReservationApiServices.cs",
-              "RelativeDocumentMoniker": "ReservationApp\\Services\\ReservationApiServices.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Services\\ReservationApiServices.cs",
-              "RelativeToolTip": "ReservationApp\\Services\\ReservationApiServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:46:31.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\Reservation\\Index.cshtml",
-              "RelativeDocumentMoniker": "ReservationApp\\Views\\Reservation\\Index.cshtml",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\Reservation\\Index.cshtml",
-              "RelativeToolTip": "ReservationApp\\Views\\Reservation\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-23T22:46:48.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "ReservationApp.csproj",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\ReservationApp.csproj",
+              "DocumentMoniker": "C:\\Users\\franf\\Source\\Repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\ReservationApp.csproj",
               "RelativeDocumentMoniker": "ReservationApp\\ReservationApp.csproj",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\ReservationApp.csproj",
+              "ToolTip": "C:\\Users\\franf\\Source\\Repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\ReservationApp.csproj",
               "RelativeToolTip": "ReservationApp\\ReservationApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -631,23 +691,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CreateReservationViewModel.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\CreateReservationViewModel.cs",
-              "RelativeDocumentMoniker": "ReservationApp\\Models\\CreateReservationViewModel.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Models\\CreateReservationViewModel.cs",
-              "RelativeToolTip": "ReservationApp\\Models\\CreateReservationViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:40:51.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\Reservation\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\Reservation\\Create.cshtml",
               "RelativeDocumentMoniker": "ReservationApp\\Views\\Reservation\\Create.cshtml",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\Reservation\\Create.cshtml",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\Reservation\\Create.cshtml",
               "RelativeToolTip": "ReservationApp\\Views\\Reservation\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -655,23 +703,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ReservationController.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Controllers\\ReservationController.cs",
-              "RelativeDocumentMoniker": "ReservationApp\\Controllers\\ReservationController.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Controllers\\ReservationController.cs",
-              "RelativeToolTip": "ReservationApp\\Controllers\\ReservationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T22:39:53.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ReservationApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ReservationApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -679,11 +715,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ReservationApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "ReservationApp\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -691,11 +727,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ReservationApp.Api.csproj",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\ReservationApp.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\franf\\Source\\Repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\ReservationApp.Api.csproj",
               "RelativeDocumentMoniker": "ReservationApp.Api\\ReservationApp.Api.csproj",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\ReservationApp.Api.csproj",
+              "ToolTip": "C:\\Users\\franf\\Source\\Repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp.Api\\ReservationApp.Api.csproj",
               "RelativeToolTip": "ReservationApp.Api\\ReservationApp.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -703,11 +739,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\appsettings.json",
               "RelativeDocumentMoniker": "ReservationApp\\appsettings.json",
-              "ToolTip": "C:\\PrograAvanzadaEnWeb\\tarea1Grupal\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\franf\\source\\repos\\ProgramacionAvanzadaenWebTarea1\\ReservationApp.ApiYWwb\\ReservationApp.Api\\ReservationApp\\appsettings.json",
               "RelativeToolTip": "ReservationApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

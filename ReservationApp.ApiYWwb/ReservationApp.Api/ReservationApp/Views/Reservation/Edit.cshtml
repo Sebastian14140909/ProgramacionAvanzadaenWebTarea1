@@ -1,0 +1,30 @@
+﻿@model UpdateReservationViewModel
+
+<h1>Editar Reserva</h1>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="Patient" class="form-label"></label>
+        <input asp-for="Patient" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Date" class="form-label"></label>
+        <input asp-for="Date" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Doctor" class="form-label"></label>
+        <input asp-for="Doctor" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Specialty" class="form-label"></label>
+        <input asp-for="Specialty" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

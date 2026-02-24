@@ -31,18 +31,41 @@ app.UseMiddleware<ErrorHandlingMiddleware>();
 
 app.MapControllers();
 
-// Minimal Api para hacer get all a la base de datos
-app.MapGet("/api/minimal/reservations", async (IReservationService service) =>
+app.MapGet("/api/min/reservations", async (IReservationService service) =>
 {
     var reservations = await service.GetReservationsAsync();
     return Results.Ok(reservations);
 });
 
-// Minimal Api para hacer post/create a la base de datos
-app.MapPost("/api/minimal/reservations", async (CreateReservationDTO dto, IReservationService service) =>
+
+app.MapGet("/api/min/reservations/{id}", async (int id, IReservationService service) =>
+{
+    var reservation = await service.GetReservationByIdAsync(id);
+    return reservation is not null
+        ? Results.Ok(reservation)
+        : Results.NotFound($"Reservación {id} no encontrada");
+});
+
+
+app.MapPost("/api/min/reservations", async (CreateReservationDTO dto, IReservationService service) =>
 {
     await service.CreateReservationAsync(dto);
-    return Results.Ok("Reservación creada exitosamente.");
+    return Results.Created("/api/min/reservations", dto);
+});
+
+
+app.MapPut("/api/min/reservations/{id}", async (int id, UpdateReservationDTO dto, IReservationService service) =>
+{
+    dto.Id = id;
+    await service.UpdateReservationAsync(dto);
+    return Results.NoContent();
+});
+
+
+app.MapDelete("/api/min/reservations/{id}", async (int id, IReservationService service) =>
+{
+    await service.DeleteReservationAsync(id);
+    return Results.NoContent();
 });
 
 app.Run();

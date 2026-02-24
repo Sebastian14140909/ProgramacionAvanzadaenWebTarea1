@@ -2,6 +2,7 @@
 {
     public class ReservationViewModel
     {
+        public int Id { get; set; }
         public string Patient { get; set; } = string.Empty;
         public DateOnly Date { get; set; }
         public string Doctor { get; set; } = string.Empty;

@@ -30,5 +30,43 @@ namespace ReservationApp.Services
                 throw new Exception($"Error creating reservation: {errorMessage}");
             }
         }
+        public async Task<ReservationViewModel> GetReservationByIdAsync(int id)
+        {
+            var response = await _httpClient.GetAsync($"reservations/{id}");
+            response.EnsureSuccessStatusCode();
+
+            return await response.Content.ReadFromJsonAsync<ReservationViewModel>();
+        }
+
+        public async Task UpdateReservationAsync(UpdateReservationViewModel vm)
+        {
+            var dto = new
+            {
+                Id = vm.Id,
+                ClientName = vm.Patient,
+                Doctor = vm.Doctor,
+                Specialty = vm.Specialty,
+                Date = vm.Date.ToDateTime(TimeOnly.MinValue)
+            };
+
+            var response = await _httpClient.PutAsJsonAsync($"reservations/{vm.Id}", dto);
+
+            if (!response.IsSuccessStatusCode)
+            {
+                var errorMessage = await response.Content.ReadAsStringAsync();
+                throw new Exception($"Error updating reservation: {errorMessage}");
+            }
+        }
+
+        public async Task DeleteReservationAsync(int id)
+        {
+            var response = await _httpClient.DeleteAsync($"reservations/{id}");
+
+            if (!response.IsSuccessStatusCode)
+            {
+                var errorMessage = await response.Content.ReadAsStringAsync();
+                throw new Exception($"Error deleting reservation: {errorMessage}");
+            }
+        }
     }
 }

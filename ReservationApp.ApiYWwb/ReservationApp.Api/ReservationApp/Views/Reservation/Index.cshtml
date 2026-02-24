@@ -10,6 +10,7 @@
             <th>Paciente</th>
             <th>Fecha</th>
             <th>Médico</th>
+            <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
@@ -19,6 +20,15 @@
                 <td>@reservation.Patient</td>
                 <td>@reservation.Date.ToString()</td>
                 <td>@reservation.Doctor</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@reservation.Id" class="btn btn-warning btn-sm">
+                        Editar
+                    </a>
+
+                    <a asp-action="Delete" asp-route-id="@reservation.Id" class="btn btn-danger btn-sm">
+                        Eliminar
+                    </a>
+                </td>
             </tr>
         }
     </tbody>
